@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-#include "CraneSimulator.h"
+ #include "CraneSimulator.h"
 
 #define MAX_LOADSTRING 100
 
